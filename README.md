@@ -1,9 +1,7 @@
 # [TMLR 2025] Dynamic Schwartz-Fourier Neural Operator for Enhanced Expressive Power
 
 <div align="center">
-	
-[![Paper](https://openreview.net/forum?id=B0E2yjrNb8)
-
+[![Paper](https://img.shields.io/badge/PDF-Paper-red.svg)](https://openreview.net/forum?id=B0E2yjrNb8)
 </div>
 
 This repository contains the code implementation for the paper titled "Dynamic Schwartz-Fourier Neural Operator for Enhanced Expressive Power"
