@@ -1,14 +1,10 @@
 # [TMLR 2025] Dynamic Schwartz-Fourier Neural Operator for Enhanced Expressive Power
 
-<div align="center">
-[![Paper](https://img.shields.io/badge/PDF-Paper-red.svg)](https://openreview.net/forum?id=B0E2yjrNb8)
-</div>
-
 This repository contains the code implementation for the paper titled "Dynamic Schwartz-Fourier Neural Operator for Enhanced Expressive Power"
 
+Wenhan Gao, Jian Luo, Ruichen Xu, Yi Liu
 
-
-The Thirteenth International Conference on Learning Representations (ICLR), 2025
+Transactions on Machine Learning Research (TMLR), 2025
 
 Full paper on [OpenReview](https://openreview.net/forum?id=B0E2yjrNb8).
 
